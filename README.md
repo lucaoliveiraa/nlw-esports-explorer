@@ -18,3 +18,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 ## 📞 Contato
 
 lucas_oliver95@hotmail.com
+https://www.linkedin.com/in/lucaoliveiraa/
